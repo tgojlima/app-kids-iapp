@@ -14,7 +14,7 @@
 - **Cadastro de Crianças**:
     - Dados pessoais (nome, data de nascimento, endereço, etc.).
     - Informações dos responsáveis (nome, contato, autorizações).
-    - Matrícula e histórico escolar.
+    - Ano escolar.
     - Observações relevantes (alergias, necessidades especiais, etc.).
 - **Cadastro de Voluntários**:
     - Dados pessoais e de contato.
