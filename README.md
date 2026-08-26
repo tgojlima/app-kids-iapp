@@ -1,53 +1,55 @@
-<div align="center">
-  
-  <!-- Logo e Título -->
-  <h1>🎨 Kids IAPP - Galeria Visual</h1>
-  <p>Abaixo estão todas as telas do sistema organizadas em cards individuais para facilitar a visualização.</p>
-  
-  <hr>
+# Kids IAPP - Sistema de Gestão para Ministério Infantil
 
-  <!-- 1. Tela de Login -->
-  <h2>🔐 Tela de Login</h2>
-  <p>Acesso rápido via Google, Microsoft, Facebook ou e-mail.</p>
-  <img src="02-Screenshots/01-login.png" alt="Tela de Login" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+Sistema web completo, **100% funcional e em uso real**, desenvolvido sob medida para atender às necessidades do Ministério Infantil. Atualmente, a plataforma gerencia mais de **250 cadastros** entre crianças e voluntários.
 
-  <!-- 2. Dashboard -->
-  <h2>📊 Dashboard</h2>
-  <p>Visão geral do ministério com números, escalas e aniversariantes.</p>
-  <img src="02-Screenshots/02-dashboard.png" alt="Dashboard" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+## 🔗 Links de Acesso
 
-  <!-- 3. Nova Criança -->
-  <h2>👧 Nova Criança</h2>
-  <p>Cadastro com foto, nascimento e definição automática de turma.</p>
-  <img src="02-Screenshots/03-cadastro-crianca.png" alt="Cadastro de Criança" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+* **Aplicação em Produção:** [https://kids-iapp-connect.base44.app](https://kids-iapp-connect.base44.app)
+* **Formulário de Avaliação/Testes:** [Link para o Formulário](https://docs.google.com/forms/d/1JS5GjnGbvQnJ8NQm6N8F7D7dxve262yxLnUsRnthFtM/edit#responses)
 
-  <!-- 4. Novo Voluntário -->
-  <h2>🧑‍🏫 Novo Voluntário</h2>
-  <p>Cadastro detalhado com categorias (Mestre, Auxiliar) e dados de contato.</p>
-  <img src="02-Screenshots/04-novo-voluntario.png" alt="Cadastro de Voluntário" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+## 📸 Screenshots
 
-  <!-- 5. Menu Lateral -->
-  <h2>📱 Menu Lateral</h2>
-  <p>Navegação fluida entre todas as áreas do sistema.</p>
-  <img src="02-Screenshots/05-menu-lateral.png" alt="Menu Lateral" width="40%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+| Tela de Login | Dashboard | Gestão de Crianças |
+|:---:|:---:|:---:|
+| ![Login] | ![Dashboard]| ![Crianças] |
 
-  <!-- 6. Nova Aula -->
-  <h2>📖 Nova Aula</h2>
-  <p>Planejamento completo, versículo base, mensagem para pais e check-list.</p>
-  <img src="02-Screenshots/06-nova-aula.png" alt="Nova Aula" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+| Aulas & Escalas | Mural de Comunicados | Relatórios |
+|:---:|:---:|:---:|
+| ![Aulas] | ![Mural] | ![Relatórios] |
 
-  <!-- 7. Mural -->
-  <h2>📌 Mural de Comunicados</h2>
-  <p>Comunicação direta com pais e voluntários, com prioridades e prazos.</p>
-  <img src="02-Screenshots/07-mural.png" alt="Mural de Comunicados" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+## ⚙️ Funcionalidades Implementadas
 
-  <!-- 8. Configurações -->
-  <h2>⚙️ Configurações de Turma</h2>
-  <p>Gerencie turmas, idades, cores e status de atividade.</p>
-  <img src="02-Screenshots/08-configuracoes.png" alt="Configurações" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+### 👤 Gestão de Pessoas
+* Cadastro completo de Crianças e Voluntários.
+* Categorias de Voluntários (Mestre, Auxiliar).
+* Fotos e dados de contato.
 
-  <hr>
+### 📅 Rotina e Planejamento
+* Dashboard com visão geral (crianças ativas, voluntários, aniversariantes, última chamada).
+* Lista de Chamada diária.
+* Escalas Mensais.
+* Configuração de turmas por idade (3 anos, 4-5 anos, 6-7 anos, etc.).
+* **Aulas:** Planejamento completo com rascunhos, versículo base, objetivos, conteúdo, check-list, mensagem para os pais e "Pós-aula" para o próximo professor.
 
-  <p><i>Projeto Kids IAPP - Desenvolvido com dedicação e tecnologia de ponta.</i></p>
-  
-</div>
+### 💬 Comunicação
+* Mural de comunicados com prioridade (Normal, Importante) e público-alvo (Todos, Pais, Voluntários).
+* Mensagens diretas para os pais.
+
+### 📊 Relatórios e Análises
+* Relatório de Frequência.
+* Médias Trimestrais.
+* Lista de Aniversariantes.
+* Diário de Bordo com espaço para informações individuais de cada criança.
+* Gráficos de crianças por turma e voluntários por categoria (proporção 4:1).
+* Contatos de emergência.
+
+## 🛠️ Tecnologias Utilizadas
+* **Front-end:** Interface altamente personalizada e intuitiva.
+* **Back-end:** Lógica de dados estruturada para gerenciamento de informações sensíveis.
+* **Plataforma Base:** Base44 (IA para desenvolvimento rápido e escalável).
+
+## 🚀 Status do Projeto
+✅ **Concluído e em produção** (Testado e avaliado com sucesso).
+
+---
+*Projeto desenvolvido para otimizar o tempo dos líderes e garantir que nenhuma criança ou detalhe seja esquecido.*
