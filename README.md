@@ -11,11 +11,11 @@ Sistema web completo, **100% funcional e em uso real**, desenvolvido sob medida 
 
 | Tela de Login | Dashboard | Gestão de Crianças |
 |:---:|:---:|:---:|
-| ![Login](02-Screenshots/01-login.png) | ![Dashboard](02-Screenshots/02-dashboard.png) | ![Crianças](02-Screenshots/03-cadastro-crianca.png) |
+| ![Login](<img width="1596" height="738" alt="01-login png" src="https://github.com/user-attachments/assets/9cf12f86-e769-440d-b220-add61473d937" />) | ![Dashboard]<img width="1565" height="594" alt="02-dashboard png" src="https://github.com/user-attachments/assets/fd0a0f91-df0c-41b8-b97f-290dc411cf2b" />) | ![Crianças](<img width="687" height="574" alt="03-cadastro-crianca png" src="https://github.com/user-attachments/assets/ee2989d0-d5b2-4bac-8687-6480694aab33" />) |
 
-| Aulas & Escalas | Mural de Comunicados | Relatórios |
+| Aulas & Escalas | Mural de Comunicados | Configurações |
 |:---:|:---:|:---:|
-| ![Aulas](02-Screenshots/04-nova-aula.png) | ![Mural](02-Screenshots/05-mural.png) | ![Relatórios](02-Screenshots/06-relatorios.png) |
+| ![Aulas](<img width="807" height="584" alt="06-nova-aula png" src="https://github.com/user-attachments/assets/e5b1f2c7-7cc7-4fc8-af69-8c949ca1f2fc" />) | ![Mural](<img width="1588" height="639" alt="07-mural png" src="https://github.com/user-attachments/assets/d3b77c90-0f7e-4dd4-a3c5-8bfc2ba41263" />) | ![Configurações](<img width="1595" height="601" alt="08-configuracoes png" src="https://github.com/user-attachments/assets/44f1a39b-23b2-4ba3-99f9-2664e7e39727" />) |
 
 ## ⚙️ Funcionalidades Implementadas
 
