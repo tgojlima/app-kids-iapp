@@ -64,3 +64,5 @@
     - Definição do professor ou voluntário responsável.
 - **Alocação**: Ferramenta para matricular crianças nas turmas ou transferi-las entre elas.
 - **Personalização**: Possibilidade de definir as disciplinas/matérias ou atividades específicas da turma.
+
+- **Link testes** : https://docs.google.com/forms/d/1JS5GjnGbvQnJ8NQm6N8F7D7dxve262yxLnUsRnthFtM/edit#responses
